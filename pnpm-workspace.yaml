@@ -1,0 +1,7 @@
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
+ignoreScripts: false
+ignoredBuiltDependencies:
+  - sharp
+  - unrs-resolver
